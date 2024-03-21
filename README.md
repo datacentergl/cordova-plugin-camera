@@ -27,6 +27,8 @@ description: Take pictures with the device camera.
 
 # cordova-plugin-camera
 
+Versión modificada por DataCenter
+
 This plugin defines a global `navigator.camera` object, which provides an API for taking pictures and for choosing images from
 the system's image library.
 
